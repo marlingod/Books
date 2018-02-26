@@ -16,6 +16,8 @@
 ### Handson Machine Learning with Sckit Kearn and TenasorFlow
 ### Functional And Reactive Domain Modeling
 ### Learning Path: Advanced Architecture for Big Data Applications
+### http://dist-prog-book.com/chapter
+
 # Online Course
 ### Scripting
 ### kafka course
