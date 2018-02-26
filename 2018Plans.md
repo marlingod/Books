@@ -13,7 +13,7 @@
 ### Reactive Web Application
 ### fast.ai
 ### Reactive Messaging Patterns
-#### Handson Machine Learning with Sckit Kearn and TenasorFlow
+### Handson Machine Learning with Sckit Kearn and TenasorFlow
 ### Functional And Reactive Domain Modeling
 ### Learning Path: Advanced Architecture for Big Data Applications
 # Online Course
